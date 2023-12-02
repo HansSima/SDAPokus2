@@ -61,6 +61,8 @@ public class Main {
         Kocka micka = new Kocka();
         micka.udelejZvuk();
 
+        //Ahoj udelal jsem zmenu!!!!
+
     }
 
     /*public static void mojeMetoda(String pozdrav, int nejakeCislo) {
